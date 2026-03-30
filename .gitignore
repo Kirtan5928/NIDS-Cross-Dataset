@@ -1,0 +1,7 @@
+data/*.csv
+data/*.parquet
+models/*.pkl
+__pycache__/
+*.pyc
+.env
+.vscode/
