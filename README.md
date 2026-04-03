@@ -39,6 +39,7 @@ python models/train.py
 python -m streamlit run dashboard/app.py
 
 ---> Dashboard Screenshots:
+
 ![Screenshot](./dashboard-1.png)
 ![Screenshot](./dashboard-2.png)
 ![Screenshot](./classifier.png)
