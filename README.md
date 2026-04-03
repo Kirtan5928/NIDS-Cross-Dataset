@@ -38,5 +38,10 @@ python models/train.py
 ### 5. Launch dashboard
 python -m streamlit run dashboard/app.py
 
+---> Dashboard Screenshots:
+![Screenshot](./dashboard-1.png)
+![Screenshot](./dashboard-2.png)
+![Screenshot](./classifier.png)
+![Screenshot](./dataset.png)
 ## Team
 Built as a coursework project at M S Ramaiah Institute of Technology, Bengaluru.
